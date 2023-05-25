@@ -59,6 +59,6 @@
       <footer>
         <p>HDC Events &copy; 2023</p>
       </footer>
-      <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+      <script src="https://unpkg.com/ionicons@5.1.2/dist/ionicons.js"></script>
     </body>
 </html>
